@@ -1,0 +1,8 @@
+C:\Users\shj\Desktop\DialB\DialB\bin\Debug\DialB.exe
+C:\Users\shj\Desktop\DialB\DialB\bin\Debug\DialB.pdb
+C:\Users\shj\Desktop\DialB\DialB\obj\Debug\DialB.Form1.resources
+C:\Users\shj\Desktop\DialB\DialB\obj\Debug\DialB.Properties.Resources.resources
+C:\Users\shj\Desktop\DialB\DialB\obj\Debug\DialB.csproj.GenerateResource.cache
+C:\Users\shj\Desktop\DialB\DialB\obj\Debug\DialB.csproj.CoreCompileInputs.cache
+C:\Users\shj\Desktop\DialB\DialB\obj\Debug\DialB.exe
+C:\Users\shj\Desktop\DialB\DialB\obj\Debug\DialB.pdb
